@@ -1,0 +1,32 @@
+{
+    "name": "bitsnio/inventory",
+    "description": "Laravel Module to moniter inventory for properties and stores",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Shehryar Azeem",
+            "email": "shehryar.azeem@bitsnio.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Inventory\\": "",
+            "Modules\\Inventory\\App\\": "app/",
+            "Modules\\Inventory\\Database\\Factories\\": "database/factories/",
+            "Modules\\Inventory\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Inventory\\Tests\\": "tests/"
+        }
+    }
+}
