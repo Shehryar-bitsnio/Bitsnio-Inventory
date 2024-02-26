@@ -2,7 +2,6 @@
     "name": "bitsnio/inventory",
     "description": "Laravel Module to moniter inventory for properties and stores",
     "type": "laravel-module",
-    "version": "1.0.0",
     "authors": [
         {
             "name": "Shehryar Azeem",
