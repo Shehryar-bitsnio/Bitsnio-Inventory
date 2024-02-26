@@ -1,5 +1,5 @@
 {
-    "name": "bitsnio/inventory",
+    "name": "bitsnio/inventory-module",
     "description": "Laravel Module to moniter inventory for properties and stores",
     "type": "laravel-module",
     "authors": [
